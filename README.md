@@ -2,4 +2,4 @@
 Tällä repositoriolla harjoitellaan forkkaamista
 
 ## Lisää nimesi tämän otsikon alle
-Artem Olshanchenko
+Eikka Ruotsalainen WEB24A
